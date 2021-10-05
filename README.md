@@ -5,6 +5,7 @@
 까지 반영되어 있습니다.
 
 * [토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code](https://www.youtube.com/watch?v=edWbHp_k_9Y)
+* [토스ㅣSLASH 21 - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기 with SLASH21 재생목록](https://www.youtube.com/watch?v=FvRtoViujGg&list=RDCMUCeg5g-vWgtgzQ0cYNV2Cyow&start_radio=1&rv=FvRtoViujGg&t=404)
 
 ## 목차
   1. [소개(Introduction)](#소개introduction)
