@@ -4,6 +4,8 @@
 * 현재 원문의 [1c0b20a](https://github.com/ryanmcdermott/clean-code-javascript/commit/1c0b20a91eb2efe529760eaa6cc4c9cc21daf547)
 까지 반영되어 있습니다.
 
+* [토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code](https://www.youtube.com/watch?v=edWbHp_k_9Y)
+
 ## 목차
   1. [소개(Introduction)](#소개introduction)
   2. [변수(Variables)](#변수variables)
